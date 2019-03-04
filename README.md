@@ -4,3 +4,6 @@ You can find the game exe here
 https://drive.google.com/open?id=1gEmC0pyzrurAz4DSxomPQqdab4ESkeIG
 
 Github doesnt support large file sizes!
+
+Trailer:
+https://youtu.be/M641b3hojdg
